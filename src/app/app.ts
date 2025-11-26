@@ -11,6 +11,7 @@ import { Sachin } from './sachin/sachin';
 <app-header></app-header>
 <app-footer></app-footer>
 <app-sachin></app-sachin>
+<router-outlet></router-outlet>
 
   `,
   styles: [
