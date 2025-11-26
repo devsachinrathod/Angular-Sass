@@ -9,6 +9,7 @@ import { Component } from '@angular/core';
     <h1>
       {{title}} 
     </h1>
+    <p>fixing the issue</p>
   `,
   styles: `
     h1 {
